@@ -35,12 +35,6 @@ Task1_Iris_Classification/
 ```
 
 ## Output
-
-![Iris Classification Output](task1graph.jpeg)
-
-
-![Iris Classification Output](task1output.jpeg)
-
 ### Classification Report
 ![Classification Report](task1_report.jpeg)
 
