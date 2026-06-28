@@ -61,6 +61,10 @@ Task4_Sales_Prediction/
 └── README.md
 ```
 
+## Output
+
+![Sales Prediction Output](task4.jpeg)
+
 ## Author
 CodeAlpha Machine Learning Internship
 
