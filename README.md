@@ -24,10 +24,6 @@ Task1_Iris_Classification/
 Task3_Car_Price_Prediction/
 README.md
 
-## Output
-
-![Sales Prediction Output](task4.jpeg)
-
 ## Author
 Gayatri6619
 CodeAlpha Machine Learning Intern (June–July 2026)
