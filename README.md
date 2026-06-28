@@ -1,30 +1,57 @@
-# CodeAlpha Machine Learning Internship
+# Task 1: Iris Flower Classification
 
-This repository contains the machine learning tasks completed during my CodeAlpha Internship.
+## Project Overview
+This project classifies Iris flowers into three species (Setosa, Versicolor, and Virginica) using Machine Learning. A classification model is trained on the Iris dataset to predict the flower species based on sepal and petal measurements.
 
-## Task 1: Iris Flower Classification
-- Built an Iris flower classification model using Python and Scikit-learn.
-- Applied data preprocessing, model training, and prediction.
-- Dataset: Iris Dataset
-
-## Task 3: Car Price Prediction
-- Built a car price prediction model using Random Forest Regressor.
-- Performed data preprocessing, label encoding, model training, and evaluation.
-- Evaluation metrics: MAE, RMSE, and R² Score.
+## Dataset
+- Iris Dataset
+- Features:
+  - Sepal Length
+  - Sepal Width
+  - Petal Length
+  - Petal Width
+- Target:
+  - Iris Setosa
+  - Iris Versicolor
+  - Iris Virginica
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
+- Scikit-learn
 
-## Repository Structure
+## Machine Learning Algorithm
+- Random Forest Classifier
+
+## Project Structure
+```
 Task1_Iris_Classification/
-Task3_Car_Price_Prediction/
-README.md
+├── iris_classification.py
+├── README.md
+├── task1_report.jpeg
+└── task1_graph.jpeg
+```
+
+## Output
+
+![Iris Classification Output](task1graph.jpeg)
+
+
+![Iris Classification Output](task1output.jpeg)
+
+### Classification Report
+![Classification Report](task1_report.jpeg)
+
+### Iris Flower Scatter Plot
+![Iris Flower Scatter Plot](task1_graph.jpeg)
+
+## Results
+- Successfully classified Iris flowers into three classes.
+- Achieved high classification accuracy.
+- Visualized the dataset using a scatter plot.
 
 ## Author
-Gayatri6619
-CodeAlpha Machine Learning Intern (June–July 2026)
-
+**Gayatri6619**  
+CodeAlpha Machine Learning Internship (June–July 2026)
